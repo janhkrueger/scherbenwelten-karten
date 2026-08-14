@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-69 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+90 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -306,6 +306,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4356–4378, y -465–-437 (23×29)
 - **SQL:** [Klein_Loh.sql](sql/Klein_Loh.sql)
 
+## Kontinent Loh
+
+![Kontinent Loh thumbnail](thumbnails/Kontinent_Loh.jpg)
+
+- **Land type:** ebene
+- **Fields:** 34951
+- **Bounding box:** x 4031–4384, y -558–27 (354×586)
+- **SQL:** [Kontinent_Loh.sql](sql/Kontinent_Loh.sql)
+
 ## Korona
 
 ![Korona thumbnail](thumbnails/Korona.jpg)
@@ -404,6 +413,114 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 406
 - **Bounding box:** x 5043–5073, y -420–-399 (31×22)
 - **SQL:** [Mauremys_Leprosa.sql](sql/Mauremys_Leprosa.sql)
+
+## namenlose Insel 3010/450
+
+![namenlose Insel 3010/450 thumbnail](thumbnails/namenlose_Insel_3010_450.jpg)
+
+- **Land type:** ebene
+- **Fields:** 518
+- **Bounding box:** x 3002–3030, y 435–465 (29×31)
+- **SQL:** [namenlose_Insel_3010_450.sql](sql/namenlose_Insel_3010_450.sql)
+
+## namenlose Insel 3430/1270
+
+![namenlose Insel 3430/1270 thumbnail](thumbnails/namenlose_Insel_3430_1270.jpg)
+
+- **Land type:** ebene
+- **Fields:** 373
+- **Bounding box:** x 3419–3438, y 1255–1282 (20×28)
+- **SQL:** [namenlose_Insel_3430_1270.sql](sql/namenlose_Insel_3430_1270.sql)
+
+## namenlose Insel 4590/-200
+
+![namenlose Insel 4590/-200 thumbnail](thumbnails/namenlose_Insel_4590_200.jpg)
+
+- **Land type:** ebene
+- **Fields:** 15
+- **Bounding box:** x 4588–4592, y -221–-219 (5×3)
+- **SQL:** [namenlose_Insel_4590_200.sql](sql/namenlose_Insel_4590_200.sql)
+
+## namenlose Insel ohne Anleger 3010/-650
+
+![namenlose Insel ohne Anleger 3010/-650 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_3010_650.jpg)
+
+- **Land type:** ebene
+- **Fields:** 133
+- **Bounding box:** x 3002–3014, y -652–-639 (13×14)
+- **SQL:** [namenlose_Insel_ohne_Anleger_3010_650.sql](sql/namenlose_Insel_ohne_Anleger_3010_650.sql)
+
+## namenlose Insel ohne Anleger 3430/-150
+
+![namenlose Insel ohne Anleger 3430/-150 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_3430_150.jpg)
+
+- **Land type:** ebene
+- **Fields:** 284
+- **Bounding box:** x 3419–3436, y -160–-133 (18×28)
+- **SQL:** [namenlose_Insel_ohne_Anleger_3430_150.sql](sql/namenlose_Insel_ohne_Anleger_3430_150.sql)
+
+## namenlose Insel ohne Anleger 3590/630
+
+![namenlose Insel ohne Anleger 3590/630 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_3590_630.jpg)
+
+- **Land type:** ebene
+- **Fields:** 298
+- **Bounding box:** x 3568–3594, y 620–648 (27×29)
+- **SQL:** [namenlose_Insel_ohne_Anleger_3590_630.sql](sql/namenlose_Insel_ohne_Anleger_3590_630.sql)
+
+## namenlose Insel ohne Anleger 3710/590
+
+![namenlose Insel ohne Anleger 3710/590 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_3710_590.jpg)
+
+- **Land type:** ebene
+- **Fields:** 227
+- **Bounding box:** x 3703–3724, y 582–601 (22×20)
+- **SQL:** [namenlose_Insel_ohne_Anleger_3710_590.sql](sql/namenlose_Insel_ohne_Anleger_3710_590.sql)
+
+## namenlose Insel ohne Anleger 3960/-580
+
+![namenlose Insel ohne Anleger 3960/-580 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_3960_580.jpg)
+
+- **Land type:** ebene
+- **Fields:** 81
+- **Bounding box:** x 3961–3969, y -585–-574 (9×12)
+- **SQL:** [namenlose_Insel_ohne_Anleger_3960_580.sql](sql/namenlose_Insel_ohne_Anleger_3960_580.sql)
+
+## namenlose Insel ohne Anleger 4050/-970
+
+![namenlose Insel ohne Anleger 4050/-970 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_4050_970.jpg)
+
+- **Land type:** ebene
+- **Fields:** 172
+- **Bounding box:** x 4036–4052, y -981–-967 (17×15)
+- **SQL:** [namenlose_Insel_ohne_Anleger_4050_970.sql](sql/namenlose_Insel_ohne_Anleger_4050_970.sql)
+
+## namenlose Insel ohne Anleger 4850/-590
+
+![namenlose Insel ohne Anleger 4850/-590 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_4850_590.jpg)
+
+- **Land type:** ebene
+- **Fields:** 168
+- **Bounding box:** x 4845–4857, y -598–-580 (13×19)
+- **SQL:** [namenlose_Insel_ohne_Anleger_4850_590.sql](sql/namenlose_Insel_ohne_Anleger_4850_590.sql)
+
+## namenlose Insel ohne Anleger 5170/10
+
+![namenlose Insel ohne Anleger 5170/10 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_5170_10.jpg)
+
+- **Land type:** ebene
+- **Fields:** 148
+- **Bounding box:** x 5159–5171, y 6–21 (13×16)
+- **SQL:** [namenlose_Insel_ohne_Anleger_5170_10.sql](sql/namenlose_Insel_ohne_Anleger_5170_10.sql)
+
+## namenlose Insel ohne Anleger 5180/-70
+
+![namenlose Insel ohne Anleger 5180/-70 thumbnail](thumbnails/namenlose_Insel_ohne_Anleger_5180_70.jpg)
+
+- **Land type:** ebene
+- **Fields:** 186
+- **Bounding box:** x 5169–5184, y -74–-57 (16×18)
+- **SQL:** [namenlose_Insel_ohne_Anleger_5180_70.sql](sql/namenlose_Insel_ohne_Anleger_5180_70.sql)
 
 ## Naphtha
 
@@ -621,6 +738,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4229–4258, y 146–180 (30×35)
 - **SQL:** [Tol_Avari.sql](sql/Tol_Avari.sql)
 
+## Tol in Mar
+
+![Tol in Mar thumbnail](thumbnails/Tol_in_Mar.jpg)
+
+- **Land type:** ebene
+- **Fields:** 7666
+- **Bounding box:** x 4940–5113, y 676–806 (174×131)
+- **SQL:** [Tol_in_Mar.sql](sql/Tol_in_Mar.sql)
+
 ## Tol Saldor
 
 ![Tol Saldor thumbnail](thumbnails/Tol_Saldor.jpg)
@@ -629,3 +755,66 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 504
 - **Bounding box:** x 3444–3482, y -63–-17 (39×47)
 - **SQL:** [Tol_Saldor.sql](sql/Tol_Saldor.sql)
+
+## Treibholz
+
+![Treibholz thumbnail](thumbnails/Treibholz.jpg)
+
+- **Land type:** ebene
+- **Fields:** 346
+- **Bounding box:** x 4309–4335, y 1163–1194 (27×32)
+- **SQL:** [Treibholz.sql](sql/Treibholz.sql)
+
+## Trithales
+
+![Trithales thumbnail](thumbnails/Trithales.jpg)
+
+- **Land type:** ebene
+- **Fields:** 726
+- **Bounding box:** x 4033–4065, y -896–-855 (33×42)
+- **SQL:** [Trithales.sql](sql/Trithales.sql)
+
+## Tynd Perth Kardar
+
+![Tynd Perth Kardar thumbnail](thumbnails/Tynd_Perth_Kardar.jpg)
+
+- **Land type:** ebene
+- **Fields:** 477
+- **Bounding box:** x 3228–3270, y -627–-594 (43×34)
+- **SQL:** [Tynd_Perth_Kardar.sql](sql/Tynd_Perth_Kardar.sql)
+
+## Wildcats Island
+
+![Wildcats Island thumbnail](thumbnails/Wildcats_Island.jpg)
+
+- **Land type:** ebene
+- **Fields:** 851
+- **Bounding box:** x 3104–3163, y 86–117 (60×32)
+- **SQL:** [Wildcats_Island.sql](sql/Wildcats_Island.sql)
+
+## Wunschinsel der Hoffnung
+
+![Wunschinsel der Hoffnung thumbnail](thumbnails/Wunschinsel_der_Hoffnung.jpg)
+
+- **Land type:** ebene
+- **Fields:** 794
+- **Bounding box:** x 3087–3131, y -191–-145 (45×47)
+- **SQL:** [Wunschinsel_der_Hoffnung.sql](sql/Wunschinsel_der_Hoffnung.sql)
+
+## Xentar
+
+![Xentar thumbnail](thumbnails/Xentar.jpg)
+
+- **Land type:** ebene
+- **Fields:** 788
+- **Bounding box:** x 3979–4017, y 1026–1077 (39×52)
+- **SQL:** [Xentar.sql](sql/Xentar.sql)
+
+## Ynys Llanw A Thrai
+
+![Ynys Llanw A Thrai thumbnail](thumbnails/Ynys_Llanw_A_Thrai.jpg)
+
+- **Land type:** ebene
+- **Fields:** 304
+- **Bounding box:** x 3642–3664, y -408–-386 (23×23)
+- **SQL:** [Ynys_Llanw_A_Thrai.sql](sql/Ynys_Llanw_A_Thrai.sql)
