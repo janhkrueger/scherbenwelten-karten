@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-32 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+69 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -296,3 +296,336 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 4184
 - **Bounding box:** x 3765–3842, y -28–74 (78×103)
 - **SQL:** [Kathodos.sql](sql/Kathodos.sql)
+
+## Klein Loh
+
+![Klein Loh thumbnail](thumbnails/Klein_Loh.jpg)
+
+- **Land type:** ebene
+- **Fields:** 425
+- **Bounding box:** x 4356–4378, y -465–-437 (23×29)
+- **SQL:** [Klein_Loh.sql](sql/Klein_Loh.sql)
+
+## Korona
+
+![Korona thumbnail](thumbnails/Korona.jpg)
+
+- **Land type:** ebene
+- **Fields:** 450
+- **Bounding box:** x 3709–3739, y 513–546 (31×34)
+- **SQL:** [Korona.sql](sql/Korona.sql)
+
+## Kyll
+
+![Kyll thumbnail](thumbnails/Kyll.jpg)
+
+- **Land type:** ebene
+- **Fields:** 6537
+- **Bounding box:** x 4593–4725, y -252–-89 (133×164)
+- **SQL:** [Kyll.sql](sql/Kyll.sql)
+
+## L´Île de la Resistance
+
+![L´Île de la Resistance thumbnail](thumbnails/L_le_de_la_Resistance.jpg)
+
+- **Land type:** ebene
+- **Fields:** 451
+- **Bounding box:** x 4915–4946, y -69–-48 (32×22)
+- **SQL:** [L_le_de_la_Resistance.sql](sql/L_le_de_la_Resistance.sql)
+
+## L´Isola Rocciosa
+
+![L´Isola Rocciosa thumbnail](thumbnails/L_Isola_Rocciosa.jpg)
+
+- **Land type:** ebene
+- **Fields:** 871
+- **Bounding box:** x 3542–3579, y 900–947 (38×48)
+- **SQL:** [L_Isola_Rocciosa.sql](sql/L_Isola_Rocciosa.sql)
+
+## Lummerland
+
+![Lummerland thumbnail](thumbnails/Lummerland.jpg)
+
+- **Land type:** ebene
+- **Fields:** 442
+- **Bounding box:** x 3580–3604, y 242–266 (25×25)
+- **SQL:** [Lummerland.sql](sql/Lummerland.sql)
+
+## Lunaé
+
+![Lunaé thumbnail](thumbnails/Luna.jpg)
+
+- **Land type:** ebene
+- **Fields:** 583
+- **Bounding box:** x 3040–3076, y -685–-640 (37×46)
+- **SQL:** [Luna.sql](sql/Luna.sql)
+
+## Margaritha
+
+![Margaritha thumbnail](thumbnails/Margaritha.jpg)
+
+- **Land type:** ebene
+- **Fields:** 184
+- **Bounding box:** x 4899–4911, y 219–238 (13×20)
+- **SQL:** [Margaritha.sql](sql/Margaritha.sql)
+
+## Marius Alvarez
+
+![Marius Alvarez thumbnail](thumbnails/Marius_Alvarez.jpg)
+
+- **Land type:** ebene
+- **Fields:** 110
+- **Bounding box:** x 4944–4957, y 54–64 (14×11)
+- **SQL:** [Marius_Alvarez.sql](sql/Marius_Alvarez.sql)
+
+## Mark el Ferror
+
+![Mark el Ferror thumbnail](thumbnails/Mark_el_Ferror.jpg)
+
+- **Land type:** ebene
+- **Fields:** 779
+- **Bounding box:** x 5031–5075, y -605–-569 (45×37)
+- **SQL:** [Mark_el_Ferror.sql](sql/Mark_el_Ferror.sql)
+
+## Matmeral
+
+![Matmeral thumbnail](thumbnails/Matmeral.jpg)
+
+- **Land type:** ebene
+- **Fields:** 758
+- **Bounding box:** x 3907–3943, y 18–66 (37×49)
+- **SQL:** [Matmeral.sql](sql/Matmeral.sql)
+
+## Mauremys Leprosa
+
+![Mauremys Leprosa thumbnail](thumbnails/Mauremys_Leprosa.jpg)
+
+- **Land type:** ebene
+- **Fields:** 406
+- **Bounding box:** x 5043–5073, y -420–-399 (31×22)
+- **SQL:** [Mauremys_Leprosa.sql](sql/Mauremys_Leprosa.sql)
+
+## Naphtha
+
+![Naphtha thumbnail](thumbnails/Naphtha.jpg)
+
+- **Land type:** ebene
+- **Fields:** 289
+- **Bounding box:** x 3809–3825, y 1261–1288 (17×28)
+- **SQL:** [Naphtha.sql](sql/Naphtha.sql)
+
+## Nebelinsel
+
+![Nebelinsel thumbnail](thumbnails/Nebelinsel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 527
+- **Bounding box:** x 4703–4727, y 649–681 (25×33)
+- **SQL:** [Nebelinsel.sql](sql/Nebelinsel.sql)
+
+## Neldoreth
+
+![Neldoreth thumbnail](thumbnails/Neldoreth.jpg)
+
+- **Land type:** ebene
+- **Fields:** 5557
+- **Bounding box:** x 3222–3419, y 689–815 (198×127)
+- **SQL:** [Neldoreth.sql](sql/Neldoreth.sql)
+
+## Nesheia Musin
+
+![Nesheia Musin thumbnail](thumbnails/Nesheia_Musin.jpg)
+
+- **Land type:** ebene
+- **Fields:** 382
+- **Bounding box:** x 3945–3976, y -203–-178 (32×26)
+- **SQL:** [Nesheia_Musin.sql](sql/Nesheia_Musin.sql)
+
+## Osterinsel
+
+![Osterinsel thumbnail](thumbnails/Osterinsel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 244
+- **Bounding box:** x 4036–4054, y 1390–1413 (19×24)
+- **SQL:** [Osterinsel.sql](sql/Osterinsel.sql)
+
+## På min måte
+
+![På min måte thumbnail](thumbnails/P_min_m_te.jpg)
+
+- **Land type:** ebene
+- **Fields:** 839
+- **Bounding box:** x 5099–5139, y 1005–1045 (41×41)
+- **SQL:** [P_min_m_te.sql](sql/P_min_m_te.sql)
+
+## Riva
+
+![Riva thumbnail](thumbnails/Riva.jpg)
+
+- **Land type:** ebene
+- **Fields:** 565
+- **Bounding box:** x 3686–3716, y 214–254 (31×41)
+- **SQL:** [Riva.sql](sql/Riva.sql)
+
+## Rumkugel
+
+![Rumkugel thumbnail](thumbnails/Rumkugel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 294
+- **Bounding box:** x 4865–4885, y -849–-826 (21×24)
+- **SQL:** [Rumkugel.sql](sql/Rumkugel.sql)
+
+## Rygg til Sjøen
+
+![Rygg til Sjøen thumbnail](thumbnails/Rygg_til_Sj_en.jpg)
+
+- **Land type:** ebene
+- **Fields:** 586
+- **Bounding box:** x 5178–5219, y 734–761 (42×28)
+- **SQL:** [Rygg_til_Sj_en.sql](sql/Rygg_til_Sj_en.sql)
+
+## Sanryati
+
+![Sanryati thumbnail](thumbnails/Sanryati.jpg)
+
+- **Land type:** ebene
+- **Fields:** 695
+- **Bounding box:** x 4485–4528, y 1447–1483 (44×37)
+- **SQL:** [Sanryati.sql](sql/Sanryati.sql)
+
+## Schmeidiländ
+
+![Schmeidiländ thumbnail](thumbnails/Schmeidil_nd.jpg)
+
+- **Land type:** ebene
+- **Fields:** 374
+- **Bounding box:** x 4514–4532, y 92–123 (19×32)
+- **SQL:** [Schmeidil_nd.sql](sql/Schmeidil_nd.sql)
+
+## Seeinsel
+
+![Seeinsel thumbnail](thumbnails/Seeinsel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 398
+- **Bounding box:** x 3593–3632, y -255–-226 (40×30)
+- **SQL:** [Seeinsel.sql](sql/Seeinsel.sql)
+
+## Skutt Kanin
+
+![Skutt Kanin thumbnail](thumbnails/Skutt_Kanin.jpg)
+
+- **Land type:** ebene
+- **Fields:** 361
+- **Bounding box:** x 4654–4675, y 1152–1179 (22×28)
+- **SQL:** [Skutt_Kanin.sql](sql/Skutt_Kanin.sql)
+
+## Solitaria
+
+![Solitaria thumbnail](thumbnails/Solitaria.jpg)
+
+- **Land type:** ebene
+- **Fields:** 107
+- **Bounding box:** x 3183–3196, y 333–342 (14×10)
+- **SQL:** [Solitaria.sql](sql/Solitaria.sql)
+
+## Sonnwend
+
+![Sonnwend thumbnail](thumbnails/Sonnwend.jpg)
+
+- **Land type:** ebene
+- **Fields:** 451
+- **Bounding box:** x 3367–3388, y -717–-682 (22×36)
+- **SQL:** [Sonnwend.sql](sql/Sonnwend.sql)
+
+## Steinöde
+
+![Steinöde thumbnail](thumbnails/Stein_de.jpg)
+
+- **Land type:** ebene
+- **Fields:** 585
+- **Bounding box:** x 4636–4664, y -770–-738 (29×33)
+- **SQL:** [Stein_de.sql](sql/Stein_de.sql)
+
+## Stern des Westens
+
+![Stern des Westens thumbnail](thumbnails/Stern_des_Westens.jpg)
+
+- **Land type:** ebene
+- **Fields:** 594
+- **Bounding box:** x 3976–4018, y 690–713 (43×24)
+- **SQL:** [Stern_des_Westens.sql](sql/Stern_des_Westens.sql)
+
+## Stille Zuflucht
+
+![Stille Zuflucht thumbnail](thumbnails/Stille_Zuflucht.jpg)
+
+- **Land type:** ebene
+- **Fields:** 472
+- **Bounding box:** x 3557–3585, y 59–89 (29×31)
+- **SQL:** [Stille_Zuflucht.sql](sql/Stille_Zuflucht.sql)
+
+## Sturmfels
+
+![Sturmfels thumbnail](thumbnails/Sturmfels.jpg)
+
+- **Land type:** ebene
+- **Fields:** 663
+- **Bounding box:** x 3322–3342, y 229–290 (21×62)
+- **SQL:** [Sturmfels.sql](sql/Sturmfels.sql)
+
+## Sturmforst
+
+![Sturmforst thumbnail](thumbnails/Sturmforst.jpg)
+
+- **Land type:** ebene
+- **Fields:** 275
+- **Bounding box:** x 3304–3331, y 102–118 (28×17)
+- **SQL:** [Sturmforst.sql](sql/Sturmforst.sql)
+
+## Tadmor Insel
+
+![Tadmor Insel thumbnail](thumbnails/Tadmor_Insel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 648
+- **Bounding box:** x 4939–4977, y 147–184 (39×38)
+- **SQL:** [Tadmor_Insel.sql](sql/Tadmor_Insel.sql)
+
+## Taka Tuka
+
+![Taka Tuka thumbnail](thumbnails/Taka_Tuka.jpg)
+
+- **Land type:** ebene
+- **Fields:** 790
+- **Bounding box:** x 4401–4461, y 1125–1167 (61×43)
+- **SQL:** [Taka_Tuka.sql](sql/Taka_Tuka.sql)
+
+## Tol Aldar
+
+![Tol Aldar thumbnail](thumbnails/Tol_Aldar.jpg)
+
+- **Land type:** ebene
+- **Fields:** 864
+- **Bounding box:** x 4218–4262, y 44–86 (45×43)
+- **SQL:** [Tol_Aldar.sql](sql/Tol_Aldar.sql)
+
+## Tol Avari
+
+![Tol Avari thumbnail](thumbnails/Tol_Avari.jpg)
+
+- **Land type:** ebene
+- **Fields:** 409
+- **Bounding box:** x 4229–4258, y 146–180 (30×35)
+- **SQL:** [Tol_Avari.sql](sql/Tol_Avari.sql)
+
+## Tol Saldor
+
+![Tol Saldor thumbnail](thumbnails/Tol_Saldor.jpg)
+
+- **Land type:** ebene
+- **Fields:** 504
+- **Bounding box:** x 3444–3482, y -63–-17 (39×47)
+- **SQL:** [Tol_Saldor.sql](sql/Tol_Saldor.sql)
