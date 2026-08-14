@@ -1,8 +1,10 @@
 # Scherbenwelten Karten
 
-16 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/ folder are generated -- see scherbenwelten-karten-private for the generator.
+26 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/ and thumbnails/ folders are generated -- see scherbenwelten-karten-private for the generator.
 
 ## A´Mare t´Tini
+
+![A´Mare t´Tini thumbnail](thumbnails/A_Mare_t_Tini.jpg)
 
 - **Land type:** ebene
 - **Fields:** 300
@@ -11,12 +13,16 @@
 
 ## Amon Kardar
 
+![Amon Kardar thumbnail](thumbnails/Amon_Kardar.jpg)
+
 - **Land type:** ebene
 - **Fields:** 598
 - **Bounding box:** x 4827–4860, y -700–-660 (34×41)
 - **SQL:** [Amon_Kardar.sql](sql/Amon_Kardar.sql)
 
 ## Arandor Vanenia
+
+![Arandor Vanenia thumbnail](thumbnails/Arandor_Vanenia.jpg)
 
 - **Land type:** ebene
 - **Fields:** 12888
@@ -25,12 +31,16 @@
 
 ## Arboleda Kardar
 
+![Arboleda Kardar thumbnail](thumbnails/Arboleda_Kardar.jpg)
+
 - **Land type:** ebene
 - **Fields:** 736
 - **Bounding box:** x 4827–4859, y -876–-822 (33×55)
 - **SQL:** [Arboleda_Kardar.sql](sql/Arboleda_Kardar.sql)
 
 ## Archipel Romantika
+
+![Archipel Romantika thumbnail](thumbnails/Archipel_Romantika.jpg)
 
 - **Land type:** ebene
 - **Fields:** 597
@@ -39,12 +49,16 @@
 
 ## Bendurs Strand
 
+![Bendurs Strand thumbnail](thumbnails/Bendurs_Strand.jpg)
+
 - **Land type:** ebene
 - **Fields:** 671
 - **Bounding box:** x 3024–3054, y -553–-502 (31×52)
 - **SQL:** [Bendurs_Strand.sql](sql/Bendurs_Strand.sql)
 
 ## Bumsfaldera
+
+![Bumsfaldera thumbnail](thumbnails/Bumsfaldera.jpg)
 
 - **Land type:** ebene
 - **Fields:** 499
@@ -53,12 +67,16 @@
 
 ## Calen Kardar
 
+![Calen Kardar thumbnail](thumbnails/Calen_Kardar.jpg)
+
 - **Land type:** ebene
 - **Fields:** 403
 - **Bounding box:** x 4727–4765, y -449–-428 (39×22)
 - **SQL:** [Calen_Kardar.sql](sql/Calen_Kardar.sql)
 
 ## Caligo
+
+![Caligo thumbnail](thumbnails/Caligo.jpg)
 
 - **Land type:** ebene
 - **Fields:** 469
@@ -67,12 +85,16 @@
 
 ## Cap Púccino
 
+![Cap Púccino thumbnail](thumbnails/Cap_P_ccino.jpg)
+
 - **Land type:** ebene
 - **Fields:** 15676
 - **Bounding box:** x 3213–3444, y -636–-386 (232×251)
 - **SQL:** [Cap_P_ccino.sql](sql/Cap_P_ccino.sql)
 
 ## Carpe Diem
+
+![Carpe Diem thumbnail](thumbnails/Carpe_Diem.jpg)
 
 - **Land type:** ebene
 - **Fields:** 354
@@ -81,12 +103,16 @@
 
 ## Catan
 
+![Catan thumbnail](thumbnails/Catan.jpg)
+
 - **Land type:** ebene
 - **Fields:** 327
 - **Bounding box:** x 5044–5068, y 1673–1688 (25×16)
 - **SQL:** [Catan.sql](sql/Catan.sql)
 
 ## Drachenbrandung
+
+![Drachenbrandung thumbnail](thumbnails/Drachenbrandung.jpg)
 
 - **Land type:** ebene
 - **Fields:** 782
@@ -95,12 +121,16 @@
 
 ## Drachenfels
 
+![Drachenfels thumbnail](thumbnails/Drachenfels.jpg)
+
 - **Land type:** ebene
 - **Fields:** 134
 - **Bounding box:** x 3417–3433, y 1382–1393 (17×12)
 - **SQL:** [Drachenfels.sql](sql/Drachenfels.sql)
 
 ## Edubo
+
+![Edubo thumbnail](thumbnails/Edubo.jpg)
 
 - **Land type:** ebene
 - **Fields:** 623
@@ -109,7 +139,99 @@
 
 ## Eiland
 
+![Eiland thumbnail](thumbnails/Eiland.jpg)
+
 - **Land type:** ebene
 - **Fields:** 6
 - **Bounding box:** x 4249–4251, y 1050–1051 (3×2)
 - **SQL:** [Eiland.sql](sql/Eiland.sql)
+
+## Ennos Felsen
+
+![Ennos Felsen thumbnail](thumbnails/Ennos_Felsen.jpg)
+
+- **Land type:** ebene
+- **Fields:** 430
+- **Bounding box:** x 3028–3060, y 613–636 (33×24)
+- **SQL:** [Ennos_Felsen.sql](sql/Ennos_Felsen.sql)
+
+## Enoîki
+
+![Enoîki thumbnail](thumbnails/Eno_ki.jpg)
+
+- **Land type:** ebene
+- **Fields:** 568
+- **Bounding box:** x 4795–4824, y 1375–1407 (30×33)
+- **SQL:** [Eno_ki.sql](sql/Eno_ki.sql)
+
+## Enten Auen
+
+![Enten Auen thumbnail](thumbnails/Enten_Auen.jpg)
+
+- **Land type:** ebene
+- **Fields:** 702
+- **Bounding box:** x 3230–3268, y -262–-227 (39×36)
+- **SQL:** [Enten_Auen.sql](sql/Enten_Auen.sql)
+
+## Fisherman´s Friend
+
+![Fisherman´s Friend thumbnail](thumbnails/Fisherman_s_Friend.jpg)
+
+- **Land type:** ebene
+- **Fields:** 321
+- **Bounding box:** x 4309–4339, y 919–944 (31×26)
+- **SQL:** [Fisherman_s_Friend.sql](sql/Fisherman_s_Friend.sql)
+
+## Flatterfels
+
+![Flatterfels thumbnail](thumbnails/Flatterfels.jpg)
+
+- **Land type:** ebene
+- **Fields:** 230
+- **Bounding box:** x 4625–4642, y -790–-773 (18×18)
+- **SQL:** [Flatterfels.sql](sql/Flatterfels.sql)
+
+## Geisterinsel
+
+![Geisterinsel thumbnail](thumbnails/Geisterinsel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 274
+- **Bounding box:** x 3401–3423, y -431–-410 (23×22)
+- **SQL:** [Geisterinsel.sql](sql/Geisterinsel.sql)
+
+## Golden Isle
+
+![Golden Isle thumbnail](thumbnails/Golden_Isle.jpg)
+
+- **Land type:** ebene
+- **Fields:** 546
+- **Bounding box:** x 3658–3684, y 434–480 (27×47)
+- **SQL:** [Golden_Isle.sql](sql/Golden_Isle.sql)
+
+## Hafeninsel
+
+![Hafeninsel thumbnail](thumbnails/Hafeninsel.jpg)
+
+- **Land type:** ebene
+- **Fields:** 7526
+- **Bounding box:** x 4201–4300, y 501–600 (100×100)
+- **SQL:** [Hafeninsel.sql](sql/Hafeninsel.sql)
+
+## Insel der Hoffnung
+
+![Insel der Hoffnung thumbnail](thumbnails/Insel_der_Hoffnung.jpg)
+
+- **Land type:** ebene
+- **Fields:** 11972
+- **Bounding box:** x 3002–3152, y 420–610 (151×191)
+- **SQL:** [Insel_der_Hoffnung.sql](sql/Insel_der_Hoffnung.sql)
+
+## Insel Emma
+
+![Insel Emma thumbnail](thumbnails/Insel_Emma.jpg)
+
+- **Land type:** ebene
+- **Fields:** 596
+- **Bounding box:** x 4462–4494, y -245–-210 (33×36)
+- **SQL:** [Insel_Emma.sql](sql/Insel_Emma.sql)
