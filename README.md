@@ -1,6 +1,13 @@
 # Scherbenwelten Karten
 
-26 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/ and thumbnails/ folders are generated -- see scherbenwelten-karten-private for the generator.
+32 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+
+Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
+
+```bash
+psql -d yourdb -f schema.sql
+for f in sql/*.sql; do psql -d yourdb -f "$f"; done
+```
 
 ## A´Mare t´Tini
 
@@ -227,6 +234,24 @@
 - **Bounding box:** x 3002–3152, y 420–610 (151×191)
 - **SQL:** [Insel_der_Hoffnung.sql](sql/Insel_der_Hoffnung.sql)
 
+## Insel der Trostlosigkeit
+
+![Insel der Trostlosigkeit thumbnail](thumbnails/Insel_der_Trostlosigkeit.jpg)
+
+- **Land type:** ebene
+- **Fields:** 179
+- **Bounding box:** x 3574–3592, y -871–-856 (19×16)
+- **SQL:** [Insel_der_Trostlosigkeit.sql](sql/Insel_der_Trostlosigkeit.sql)
+
+## Insel der verlorenen Wespen
+
+![Insel der verlorenen Wespen thumbnail](thumbnails/Insel_der_verlorenen_Wespen.jpg)
+
+- **Land type:** ebene
+- **Fields:** 706
+- **Bounding box:** x 4682–4722, y 721–750 (41×30)
+- **SQL:** [Insel_der_verlorenen_Wespen.sql](sql/Insel_der_verlorenen_Wespen.sql)
+
 ## Insel Emma
 
 ![Insel Emma thumbnail](thumbnails/Insel_Emma.jpg)
@@ -235,3 +260,39 @@
 - **Fields:** 596
 - **Bounding box:** x 4462–4494, y -245–-210 (33×36)
 - **SQL:** [Insel_Emma.sql](sql/Insel_Emma.sql)
+
+## Inutile
+
+![Inutile thumbnail](thumbnails/Inutile.jpg)
+
+- **Land type:** ebene
+- **Fields:** 703
+- **Bounding box:** x 3593–3635, y 841–878 (43×38)
+- **SQL:** [Inutile.sql](sql/Inutile.sql)
+
+## Isla de Muerta
+
+![Isla de Muerta thumbnail](thumbnails/Isla_de_Muerta.jpg)
+
+- **Land type:** ebene
+- **Fields:** 337
+- **Bounding box:** x 4922–4956, y 970–994 (35×25)
+- **SQL:** [Isla_de_Muerta.sql](sql/Isla_de_Muerta.sql)
+
+## Isola La Speranza
+
+![Isola La Speranza thumbnail](thumbnails/Isola_La_Speranza.jpg)
+
+- **Land type:** ebene
+- **Fields:** 295
+- **Bounding box:** x 4420–4443, y -567–-548 (24×20)
+- **SQL:** [Isola_La_Speranza.sql](sql/Isola_La_Speranza.sql)
+
+## Kathodos
+
+![Kathodos thumbnail](thumbnails/Kathodos.jpg)
+
+- **Land type:** ebene
+- **Fields:** 4184
+- **Bounding box:** x 3765–3842, y -28–74 (78×103)
+- **SQL:** [Kathodos.sql](sql/Kathodos.sql)

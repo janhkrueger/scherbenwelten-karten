@@ -4,7 +4,7 @@ DECLARE
     v_karte_id integer := nextval('world.seq_karte_name');
 BEGIN
     -- Announce the island itself before its fields (world.map has no name/metadata of its own)
-    INSERT INTO world.map_name (karte_id, map_name, karte_entdeckt, karte_stadt, karte_untergrund, karte_bebaubar, map_origin, karte_ersteller) VALUES (v_karte_id, 'Fisherman´s Friend', 'j', 'n', 'n', TRUE, 'SW-Final', 'unbekannt');
+    INSERT INTO world.map_name (karte_id, map_name) VALUES (v_karte_id, 'Fisherman´s Friend');
 
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4329, 919, 0, 410, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4330, 919, 0, 421, 1000000000);
