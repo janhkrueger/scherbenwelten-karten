@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-90 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+93 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -288,6 +288,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4420–4443, y -567–-548 (24×20)
 - **SQL:** [Isola_La_Speranza.sql](sql/Isola_La_Speranza.sql)
 
+## Kanubia
+
+![Kanubia thumbnail](thumbnails/Kanubia.jpg)
+
+- **Land type:** ebene
+- **Fields:** 13694
+- **Bounding box:** x 3987–4159, y -786–-599 (173×188)
+- **SQL:** [Kanubia.sql](sql/Kanubia.sql)
+
 ## Kathodos
 
 ![Kathodos thumbnail](thumbnails/Kathodos.jpg)
@@ -329,7 +338,7 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 ![Kyll thumbnail](thumbnails/Kyll.jpg)
 
 - **Land type:** ebene
-- **Fields:** 6537
+- **Fields:** 6538
 - **Bounding box:** x 4593–4725, y -252–-89 (133×164)
 - **SQL:** [Kyll.sql](sql/Kyll.sql)
 
@@ -350,6 +359,24 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 871
 - **Bounding box:** x 3542–3579, y 900–947 (38×48)
 - **SQL:** [L_Isola_Rocciosa.sql](sql/L_Isola_Rocciosa.sql)
+
+## Lóna Linwilóce
+
+![Lóna Linwilóce thumbnail](thumbnails/L_na_Linwil_ce.jpg)
+
+- **Land type:** ebene
+- **Fields:** 288
+- **Bounding box:** x 3091–3119, y 776–792 (29×17)
+- **SQL:** [L_na_Linwil_ce.sql](sql/L_na_Linwil_ce.sql)
+
+## Long Island
+
+![Long Island thumbnail](thumbnails/Long_Island.jpg)
+
+- **Land type:** ebene
+- **Fields:** 13174
+- **Bounding box:** x 3480–3683, y 1023–1200 (204×178)
+- **SQL:** [Long_Island.sql](sql/Long_Island.sql)
 
 ## Lummerland
 

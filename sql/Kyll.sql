@@ -1,4 +1,4 @@
--- Kyll: 6537 field(s), land_type=ebene
+-- Kyll: 6538 field(s), land_type=ebene
 DO $$
 DECLARE
     v_karte_id integer := nextval('world.seq_karte_name');
@@ -4241,6 +4241,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4646, -130, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4647, -130, 0, 203, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4648, -130, 0, 204, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4649, -130, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4650, -130, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4651, -130, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4652, -130, 0, 0, 1000000000);
