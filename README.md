@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-121 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+122 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -395,6 +395,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 180
 - **Bounding box:** x 4535–4553, y 1874–1888 (19×15)
 - **SQL:** [kleines_hei_es_Pl_tteisen.sql](sql/kleines_hei_es_Pl_tteisen.sql)
+
+## Kleinkräutergarten
+
+![Kleinkräutergarten thumbnail](thumbnails/Kleinkr_utergarten.jpg)
+
+- **Land type:** jungle
+- **Fields:** 585
+- **Bounding box:** x 5030–5071, y 1872–1900 (42×29)
+- **SQL:** [Kleinkr_utergarten.sql](sql/Kleinkr_utergarten.sql)
 
 ## Kontinent Loh
 
