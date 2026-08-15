@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-124 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+125 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -809,6 +809,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 382
 - **Bounding box:** x 3945–3976, y -203–-178 (32×26)
 - **SQL:** [Nesheia_Musin.sql](sql/Nesheia_Musin.sql)
+
+## Nöldtwin
+
+![Nöldtwin thumbnail](thumbnails/N_ldtwin.jpg)
+
+- **Land type:** desert
+- **Fields:** 624
+- **Bounding box:** x 3625–3677, y 1241–1270 (53×30)
+- **SQL:** [N_ldtwin.sql](sql/N_ldtwin.sql)
 
 ## Osterinsel
 
