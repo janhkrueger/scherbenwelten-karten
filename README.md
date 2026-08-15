@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-122 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+123 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -422,6 +422,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 450
 - **Bounding box:** x 3709–3739, y 513–546 (31×34)
 - **SQL:** [Korona.sql](sql/Korona.sql)
+
+## Kräutergarten
+
+![Kräutergarten thumbnail](thumbnails/Kr_utergarten.jpg)
+
+- **Land type:** jungle
+- **Fields:** 12657
+- **Bounding box:** x 5067–5239, y 1713–1949 (173×237)
+- **SQL:** [Kr_utergarten.sql](sql/Kr_utergarten.sql)
 
 ## Kyll
 
