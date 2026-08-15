@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-123 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+124 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -917,6 +917,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 361
 - **Bounding box:** x 4654–4675, y 1152–1179 (22×28)
 - **SQL:** [Skutt_Kanin.sql](sql/Skutt_Kanin.sql)
+
+## Söldtwin
+
+![Söldtwin thumbnail](thumbnails/S_ldtwin.jpg)
+
+- **Land type:** desert
+- **Fields:** 266
+- **Bounding box:** x 3629–3648, y 1294–1314 (20×21)
+- **SQL:** [S_ldtwin.sql](sql/S_ldtwin.sql)
 
 ## Solitaria
 
