@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-96 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+99 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -567,6 +567,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3321–3340, y 1704–1718 (20×15)
 - **SQL:** [namenlose_Lavainsel_3330_1710.sql](sql/namenlose_Lavainsel_3330_1710.sql)
 
+## namenlose Lavainsel 3360/1790
+
+![namenlose Lavainsel 3360/1790 thumbnail](thumbnails/namenlose_Lavainsel_3360_1790.jpg)
+
+- **Land type:** lava
+- **Fields:** 610
+- **Bounding box:** x 3343–3381, y 1781–1806 (39×26)
+- **SQL:** [namenlose_Lavainsel_3360_1790.sql](sql/namenlose_Lavainsel_3360_1790.sql)
+
 ## namenlose Lavainsel 3910/1650
 
 ![namenlose Lavainsel 3910/1650 thumbnail](thumbnails/namenlose_Lavainsel_3910_1650.jpg)
@@ -575,6 +584,24 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 295
 - **Bounding box:** x 3896–3918, y 1640–1659 (23×20)
 - **SQL:** [namenlose_Lavainsel_3910_1650.sql](sql/namenlose_Lavainsel_3910_1650.sql)
+
+## namenlose Lavainsel 4400/1510
+
+![namenlose Lavainsel 4400/1510 thumbnail](thumbnails/namenlose_Lavainsel_4400_1510.jpg)
+
+- **Land type:** lava
+- **Fields:** 239
+- **Bounding box:** x 4394–4412, y 1502–1524 (19×23)
+- **SQL:** [namenlose_Lavainsel_4400_1510.sql](sql/namenlose_Lavainsel_4400_1510.sql)
+
+## namenlose Lavainsel 4690/1550
+
+![namenlose Lavainsel 4690/1550 thumbnail](thumbnails/namenlose_Lavainsel_4690_1550.jpg)
+
+- **Land type:** lava
+- **Fields:** 352
+- **Bounding box:** x 4678–4700, y 1535–1566 (23×32)
+- **SQL:** [namenlose_Lavainsel_4690_1550.sql](sql/namenlose_Lavainsel_4690_1550.sql)
 
 ## Naphtha
 
