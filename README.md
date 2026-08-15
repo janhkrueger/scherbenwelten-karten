@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-102 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+108 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -234,6 +234,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4201–4300, y 501–600 (100×100)
 - **SQL:** [Hafeninsel.sql](sql/Hafeninsel.sql)
 
+## Insel der Blitze
+
+![Insel der Blitze thumbnail](thumbnails/Insel_der_Blitze.jpg)
+
+- **Land type:** lava
+- **Fields:** 709
+- **Bounding box:** x 4155–4199, y 1581–1623 (45×43)
+- **SQL:** [Insel_der_Blitze.sql](sql/Insel_der_Blitze.sql)
+
 ## Insel der Hoffnung
 
 ![Insel der Hoffnung thumbnail](thumbnails/Insel_der_Hoffnung.jpg)
@@ -287,6 +296,24 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 337
 - **Bounding box:** x 4922–4956, y 970–994 (35×25)
 - **SQL:** [Isla_de_Muerta.sql](sql/Isla_de_Muerta.sql)
+
+## Isle of Death
+
+![Isle of Death thumbnail](thumbnails/Isle_of_Death.jpg)
+
+- **Land type:** lava
+- **Fields:** 351
+- **Bounding box:** x 3280–3313, y 1579–1595 (34×17)
+- **SQL:** [Isle_of_Death.sql](sql/Isle_of_Death.sql)
+
+## Isle of Pain
+
+![Isle of Pain thumbnail](thumbnails/Isle_of_Pain.jpg)
+
+- **Land type:** lava
+- **Fields:** 635
+- **Bounding box:** x 3313–3348, y 1507–1534 (36×28)
+- **SQL:** [Isle_of_Pain.sql](sql/Isle_of_Pain.sql)
 
 ## Isola La Speranza
 
@@ -378,6 +405,24 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4099–4588, y 184–791 (490×608)
 - **SQL:** [Lagerinsel.sql](sql/Lagerinsel.sql)
 
+## Land's End
+
+![Land's End thumbnail](thumbnails/Land_s_End.jpg)
+
+- **Land type:** lava
+- **Fields:** 515
+- **Bounding box:** x 3115–3156, y 1972–1999 (42×28)
+- **SQL:** [Land_s_End.sql](sql/Land_s_End.sql)
+
+## Little Ferieninsel
+
+![Little Ferieninsel thumbnail](thumbnails/Little_Ferieninsel.jpg)
+
+- **Land type:** lava
+- **Fields:** 173
+- **Bounding box:** x 3680–3696, y 1668–1685 (17×18)
+- **SQL:** [Little_Ferieninsel.sql](sql/Little_Ferieninsel.sql)
+
 ## Lóna Linwilóce
 
 ![Lóna Linwilóce thumbnail](thumbnails/L_na_Linwil_ce.jpg)
@@ -413,6 +458,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 583
 - **Bounding box:** x 3040–3076, y -685–-640 (37×46)
 - **SQL:** [Luna.sql](sql/Luna.sql)
+
+## Mamenka
+
+![Mamenka thumbnail](thumbnails/Mamenka.jpg)
+
+- **Land type:** lava
+- **Fields:** 1209
+- **Bounding box:** x 4068–4122, y 1693–1730 (55×38)
+- **SQL:** [Mamenka.sql](sql/Mamenka.sql)
 
 ## Margaritha
 
