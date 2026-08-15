@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-108 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+121 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -53,6 +53,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 597
 - **Bounding box:** x 4942–4963, y -516–-459 (22×58)
 - **SQL:** [Archipel_Romantika.sql](sql/Archipel_Romantika.sql)
+
+## Armenia
+
+![Armenia thumbnail](thumbnails/Armenia.jpg)
+
+- **Land type:** lava
+- **Fields:** 12808
+- **Bounding box:** x 3807–4003, y 1703–1919 (197×217)
+- **SQL:** [Armenia.sql](sql/Armenia.sql)
 
 ## Bendurs Strand
 
@@ -225,6 +234,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3658–3684, y 434–480 (27×47)
 - **SQL:** [Golden_Isle.sql](sql/Golden_Isle.sql)
 
+## großes heißes Plätteisen
+
+![großes heißes Plätteisen thumbnail](thumbnails/gro_es_hei_es_Pl_tteisen.jpg)
+
+- **Land type:** lava
+- **Fields:** 428
+- **Bounding box:** x 4698–4727, y 1792–1819 (30×28)
+- **SQL:** [gro_es_hei_es_Pl_tteisen.sql](sql/gro_es_hei_es_Pl_tteisen.sql)
+
 ## Hafeninsel
 
 ![Hafeninsel thumbnail](thumbnails/Hafeninsel.jpg)
@@ -306,6 +324,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3280–3313, y 1579–1595 (34×17)
 - **SQL:** [Isle_of_Death.sql](sql/Isle_of_Death.sql)
 
+## Isle of Horror
+
+![Isle of Horror thumbnail](thumbnails/Isle_of_Horror.jpg)
+
+- **Land type:** lava
+- **Fields:** 388
+- **Bounding box:** x 3009–3044, y 1638–1657 (36×20)
+- **SQL:** [Isle_of_Horror.sql](sql/Isle_of_Horror.sql)
+
 ## Isle of Pain
 
 ![Isle of Pain thumbnail](thumbnails/Isle_of_Pain.jpg)
@@ -314,6 +341,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 635
 - **Bounding box:** x 3313–3348, y 1507–1534 (36×28)
 - **SQL:** [Isle_of_Pain.sql](sql/Isle_of_Pain.sql)
+
+## Isle of Terror
+
+![Isle of Terror thumbnail](thumbnails/Isle_of_Terror.jpg)
+
+- **Land type:** lava
+- **Fields:** 761
+- **Bounding box:** x 3200–3235, y 1492–1546 (36×55)
+- **SQL:** [Isle_of_Terror.sql](sql/Isle_of_Terror.sql)
 
 ## Isola La Speranza
 
@@ -350,6 +386,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 425
 - **Bounding box:** x 4356–4378, y -465–-437 (23×29)
 - **SQL:** [Klein_Loh.sql](sql/Klein_Loh.sql)
+
+## kleines heißes Plätteisen
+
+![kleines heißes Plätteisen thumbnail](thumbnails/kleines_hei_es_Pl_tteisen.jpg)
+
+- **Land type:** lava
+- **Fields:** 180
+- **Bounding box:** x 4535–4553, y 1874–1888 (19×15)
+- **SQL:** [kleines_hei_es_Pl_tteisen.sql](sql/kleines_hei_es_Pl_tteisen.sql)
 
 ## Kontinent Loh
 
@@ -657,6 +702,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3896–3918, y 1640–1659 (23×20)
 - **SQL:** [namenlose_Lavainsel_3910_1650.sql](sql/namenlose_Lavainsel_3910_1650.sql)
 
+## namenlose Lavainsel 4220/1880
+
+![namenlose Lavainsel 4220/1880 thumbnail](thumbnails/namenlose_Lavainsel_4220_1880.jpg)
+
+- **Land type:** lava
+- **Fields:** 604
+- **Bounding box:** x 4203–4235, y 1870–1900 (33×31)
+- **SQL:** [namenlose_Lavainsel_4220_1880.sql](sql/namenlose_Lavainsel_4220_1880.sql)
+
 ## namenlose Lavainsel 4400/1510
 
 ![namenlose Lavainsel 4400/1510 thumbnail](thumbnails/namenlose_Lavainsel_4400_1510.jpg)
@@ -665,6 +719,33 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 239
 - **Bounding box:** x 4394–4412, y 1502–1524 (19×23)
 - **SQL:** [namenlose_Lavainsel_4400_1510.sql](sql/namenlose_Lavainsel_4400_1510.sql)
+
+## namenlose Lavainsel 4470/1510
+
+![namenlose Lavainsel 4470/1510 thumbnail](thumbnails/namenlose_Lavainsel_4470_1510.jpg)
+
+- **Land type:** lava
+- **Fields:** 239
+- **Bounding box:** x 4394–4412, y 1502–1524 (19×23)
+- **SQL:** [namenlose_Lavainsel_4470_1510.sql](sql/namenlose_Lavainsel_4470_1510.sql)
+
+## namenlose Lavainsel 4570/1970
+
+![namenlose Lavainsel 4570/1970 thumbnail](thumbnails/namenlose_Lavainsel_4570_1970.jpg)
+
+- **Land type:** lava
+- **Fields:** 734
+- **Bounding box:** x 4535–4577, y 1953–1988 (43×36)
+- **SQL:** [namenlose_Lavainsel_4570_1970.sql](sql/namenlose_Lavainsel_4570_1970.sql)
+
+## namenlose Lavainsel 4660/1650
+
+![namenlose Lavainsel 4660/1650 thumbnail](thumbnails/namenlose_Lavainsel_4660_1650.jpg)
+
+- **Land type:** lava
+- **Fields:** 787
+- **Bounding box:** x 4631–4693, y 1634–1655 (63×22)
+- **SQL:** [namenlose_Lavainsel_4660_1650.sql](sql/namenlose_Lavainsel_4660_1650.sql)
 
 ## namenlose Lavainsel 4690/1550
 
@@ -729,6 +810,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 5099–5139, y 1005–1045 (41×41)
 - **SQL:** [P_min_m_te.sql](sql/P_min_m_te.sql)
 
+## Phantasy Island
+
+![Phantasy Island thumbnail](thumbnails/Phantasy_Island.jpg)
+
+- **Land type:** lava
+- **Fields:** 722
+- **Bounding box:** x 3613–3659, y 1511–1561 (47×51)
+- **SQL:** [Phantasy_Island.sql](sql/Phantasy_Island.sql)
+
 ## Riva
 
 ![Riva thumbnail](thumbnails/Riva.jpg)
@@ -755,6 +845,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 586
 - **Bounding box:** x 5178–5219, y 734–761 (42×28)
 - **SQL:** [Rygg_til_Sj_en.sql](sql/Rygg_til_Sj_en.sql)
+
+## San Torin
+
+![San Torin thumbnail](thumbnails/San_Torin.jpg)
+
+- **Land type:** lava
+- **Fields:** 615
+- **Bounding box:** x 4087–4118, y 1463–1495 (32×33)
+- **SQL:** [San_Torin.sql](sql/San_Torin.sql)
 
 ## Sanryati
 
@@ -783,6 +882,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3593–3632, y -255–-226 (40×30)
 - **SQL:** [Seeinsel.sql](sql/Seeinsel.sql)
 
+## Seemannsgrab
+
+![Seemannsgrab thumbnail](thumbnails/Seemannsgrab.jpg)
+
+- **Land type:** lava
+- **Fields:** 8845
+- **Bounding box:** x 3536–3689, y 1606–1802 (154×197)
+- **SQL:** [Seemannsgrab.sql](sql/Seemannsgrab.sql)
+
 ## Skutt Kanin
 
 ![Skutt Kanin thumbnail](thumbnails/Skutt_Kanin.jpg)
@@ -800,6 +908,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 107
 - **Bounding box:** x 3183–3196, y 333–342 (14×10)
 - **SQL:** [Solitaria.sql](sql/Solitaria.sql)
+
+## Sonnensteppe
+
+![Sonnensteppe thumbnail](thumbnails/Sonnensteppe.jpg)
+
+- **Land type:** lava,ebene
+- **Fields:** 22447
+- **Bounding box:** x 4718–5226, y 1468–1701 (509×234)
+- **SQL:** [Sonnensteppe.sql](sql/Sonnensteppe.sql)
 
 ## Sonnwend
 
