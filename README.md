@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-93 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+95 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -548,6 +548,24 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 186
 - **Bounding box:** x 5169–5184, y -74–-57 (16×18)
 - **SQL:** [namenlose_Insel_ohne_Anleger_5180_70.sql](sql/namenlose_Insel_ohne_Anleger_5180_70.sql)
+
+## namenlose Lavainsel 3330/1710
+
+![namenlose Lavainsel 3330/1710 thumbnail](thumbnails/namenlose_Lavainsel_3330_1710.jpg)
+
+- **Land type:** lava
+- **Fields:** 205
+- **Bounding box:** x 3321–3340, y 1704–1718 (20×15)
+- **SQL:** [namenlose_Lavainsel_3330_1710.sql](sql/namenlose_Lavainsel_3330_1710.sql)
+
+## namenlose Lavainsel 3910/1650
+
+![namenlose Lavainsel 3910/1650 thumbnail](thumbnails/namenlose_Lavainsel_3910_1650.jpg)
+
+- **Land type:** lava
+- **Fields:** 295
+- **Bounding box:** x 3896–3918, y 1640–1659 (23×20)
+- **SQL:** [namenlose_Lavainsel_3910_1650.sql](sql/namenlose_Lavainsel_3910_1650.sql)
 
 ## Naphtha
 
