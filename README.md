@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-99 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+102 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -179,6 +179,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 702
 - **Bounding box:** x 3230–3268, y -262–-227 (39×36)
 - **SQL:** [Enten_Auen.sql](sql/Enten_Auen.sql)
+
+## Feuersteppe
+
+![Feuersteppe thumbnail](thumbnails/Feuersteppe.jpg)
+
+- **Land type:** lava
+- **Fields:** 339
+- **Bounding box:** x 4730–4751, y 1706–1729 (22×24)
+- **SQL:** [Feuersteppe.sql](sql/Feuersteppe.sql)
 
 ## Fisherman´s Friend
 
@@ -558,6 +567,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 5169–5184, y -74–-57 (16×18)
 - **SQL:** [namenlose_Insel_ohne_Anleger_5180_70.sql](sql/namenlose_Insel_ohne_Anleger_5180_70.sql)
 
+## namenlose Lavainsel 3300/1710
+
+![namenlose Lavainsel 3300/1710 thumbnail](thumbnails/namenlose_Lavainsel_3300_1710.jpg)
+
+- **Land type:** lava
+- **Fields:** 486
+- **Bounding box:** x 3286–3315, y 1704–1730 (30×27)
+- **SQL:** [namenlose_Lavainsel_3300_1710.sql](sql/namenlose_Lavainsel_3300_1710.sql)
+
 ## namenlose Lavainsel 3330/1710
 
 ![namenlose Lavainsel 3330/1710 thumbnail](thumbnails/namenlose_Lavainsel_3330_1710.jpg)
@@ -782,6 +800,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 275
 - **Bounding box:** x 3304–3331, y 102–118 (28×17)
 - **SQL:** [Sturmforst.sql](sql/Sturmforst.sql)
+
+## Süderinsel
+
+![Süderinsel thumbnail](thumbnails/S_derinsel.jpg)
+
+- **Land type:** lava
+- **Fields:** 277
+- **Bounding box:** x 4034–4048, y 1500–1526 (15×27)
+- **SQL:** [S_derinsel.sql](sql/S_derinsel.sql)
 
 ## Tadmor Insel
 
