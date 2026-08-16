@@ -2,7 +2,7 @@
 
 *[Diese Seite auf Deutsch](README.md)*
 
-133 old islands from Scherbenwelten, ready for import into `world.map`.
+137 old islands from Scherbenwelten, ready for import into `world.map`.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -245,6 +245,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3658–3684, y 434–480 (27×47)
 - **SQL:** [Golden_Isle.sql](sql/Golden_Isle.sql)
 
+## große Eisinsel der Trostlosigkeit
+
+![große Eisinsel der Trostlosigkeit thumbnail](thumbnails/gro_e_Eisinsel_der_Trostlosigkeit.jpg)
+
+- **Land type:** ice
+- **Fields:** 13405
+- **Bounding box:** x 3567–3813, y -981–-690 (247×292)
+- **SQL:** [gro_e_Eisinsel_der_Trostlosigkeit.sql](sql/gro_e_Eisinsel_der_Trostlosigkeit.sql)
+
 ## großes heißes Plätteisen
 
 ![großes heißes Plätteisen thumbnail](thumbnails/gro_es_hei_es_Pl_tteisen.jpg)
@@ -298,6 +307,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 706
 - **Bounding box:** x 4682–4722, y 721–750 (41×30)
 - **SQL:** [Insel_der_verlorenen_Wespen.sql](sql/Insel_der_verlorenen_Wespen.sql)
+
+## Insel des ewigen Eises
+
+![Insel des ewigen Eises thumbnail](thumbnails/Insel_des_ewigen_Eises.jpg)
+
+- **Land type:** ice
+- **Fields:** 15089
+- **Bounding box:** x 3071–3380, y -935–-803 (310×133)
+- **SQL:** [Insel_des_ewigen_Eises.sql](sql/Insel_des_ewigen_Eises.sql)
 
 ## Insel Emma
 
@@ -956,6 +974,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4485–4528, y 1447–1483 (44×37)
 - **SQL:** [Sanryati.sql](sql/Sanryati.sql)
 
+## Schlottervlies
+
+![Schlottervlies thumbnail](thumbnails/Schlottervlies.jpg)
+
+- **Land type:** ice
+- **Fields:** 7783
+- **Bounding box:** x 4424–4507, y -912–-717 (84×196)
+- **SQL:** [Schlottervlies.sql](sql/Schlottervlies.sql)
+
 ## Schmeidiländ
 
 ![Schmeidiländ thumbnail](thumbnails/Schmeidil_nd.jpg)
@@ -964,6 +991,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 374
 - **Bounding box:** x 4514–4532, y 92–123 (19×32)
 - **SQL:** [Schmeidil_nd.sql](sql/Schmeidil_nd.sql)
+
+## Schneebergen
+
+![Schneebergen thumbnail](thumbnails/Schneebergen.jpg)
+
+- **Land type:** ice
+- **Fields:** 2722
+- **Bounding box:** x 5016–5104, y -998–-940 (89×59)
+- **SQL:** [Schneebergen.sql](sql/Schneebergen.sql)
 
 ## Seeinsel
 

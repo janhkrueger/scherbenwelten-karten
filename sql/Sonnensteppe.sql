@@ -282,7 +282,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1482, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1482, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1482, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1482, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1482, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5151, 1482, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1482, 0, 206, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1482, 0, 207, 1000000000);
@@ -375,7 +375,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1484, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1484, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1484, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1484, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1484, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1484, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5115, 1485, 0, 446, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5116, 1485, 0, 640, 1000000000);
@@ -412,7 +412,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1485, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1485, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1485, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1485, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1485, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5151, 1485, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1485, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1485, 0, 640, 1000000000);
@@ -500,7 +500,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1487, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1487, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1487, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1487, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1487, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5151, 1487, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1487, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1487, 0, 0, 1000000000);
@@ -584,7 +584,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1489, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1489, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1489, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1489, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1489, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5151, 1489, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1489, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1489, 0, 640, 1000000000);
@@ -1175,7 +1175,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1497, 0, 201, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1497, 0, 202, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1497, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1497, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1497, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1497, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1497, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1497, 0, 640, 1000000000);
@@ -1295,7 +1295,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1498, 0, 107, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1498, 0, 108, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1498, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1498, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1498, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1498, 0, 0, 1000000000);
@@ -1304,9 +1304,9 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5190, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5191, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1498, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1498, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1498, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1498, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1498, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1498, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5196, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5197, 1498, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5198, 1498, 0, 106, 1000000000);
@@ -1333,7 +1333,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5219, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5220, 1498, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5221, 1498, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5222, 1498, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5222, 1498, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5223, 1498, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5116, 1499, 0, 446, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5117, 1499, 0, 0, 1000000000);
@@ -1532,7 +1532,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5116, 1501, 0, 470, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5117, 1501, 0, 401, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5118, 1501, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5119, 1501, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5119, 1501, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5120, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5121, 1501, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5122, 1501, 0, 640, 1000000000);
@@ -1541,7 +1541,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5125, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5126, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5127, 1501, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5128, 1501, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5128, 1501, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1501, 0, 0, 1000000000);
@@ -1559,7 +1559,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1501, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1501, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1501, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1501, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1501, 0, 640, 1000000000);
@@ -1652,7 +1652,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1502, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1502, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1502, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1502, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1502, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1502, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1502, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5151, 1502, 0, 0, 1000000000);
@@ -1827,7 +1827,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5137, 1504, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5138, 1504, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5139, 1504, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1504, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1504, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1504, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1504, 0, 552, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1504, 0, 510, 1000000000);
@@ -2029,7 +2029,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1506, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1506, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1506, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1506, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1506, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1506, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1506, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1506, 0, 105, 1000000000);
@@ -2464,7 +2464,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5213, 1510, 0, 445, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5214, 1510, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5215, 1510, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5216, 1510, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5216, 1510, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5217, 1510, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5218, 1510, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5219, 1510, 0, 0, 1000000000);
@@ -2506,7 +2506,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1511, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1511, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1511, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1511, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1511, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1511, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1511, 0, 402, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1511, 0, 421, 1000000000);
@@ -2582,7 +2582,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5115, 1512, 0, 420, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5116, 1512, 0, 403, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5117, 1512, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5118, 1512, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5118, 1512, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5119, 1512, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5120, 1512, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5121, 1512, 0, 0, 1000000000);
@@ -2865,7 +2865,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5120, 1515, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5121, 1515, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5122, 1515, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5123, 1515, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5123, 1515, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5124, 1515, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5125, 1515, 0, 203, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5126, 1515, 0, 204, 1000000000);
@@ -2881,7 +2881,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5136, 1515, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5137, 1515, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5138, 1515, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5139, 1515, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5139, 1515, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1515, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1515, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1515, 0, 112, 1000000000);
@@ -2987,7 +2987,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1516, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1516, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1516, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1516, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1516, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1516, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1516, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1516, 0, 0, 1000000000);
@@ -3235,7 +3235,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5107, 1519, 0, 481, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5108, 1519, 0, 401, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5109, 1519, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5110, 1519, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5110, 1519, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5111, 1519, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5112, 1519, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5113, 1519, 0, 0, 1000000000);
@@ -3350,7 +3350,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5118, 1520, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5119, 1520, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5120, 1520, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5121, 1520, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5121, 1520, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5122, 1520, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5123, 1520, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5124, 1520, 0, 0, 1000000000);
@@ -3388,7 +3388,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1520, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1520, 0, 105, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1520, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1520, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1520, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1520, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1520, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1520, 0, 0, 1000000000);
@@ -3458,7 +3458,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1521, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1521, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1521, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1521, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1521, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5133, 1521, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5134, 1521, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5135, 1521, 0, 0, 1000000000);
@@ -3597,9 +3597,9 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1522, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1522, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1522, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1522, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1522, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1522, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1522, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1522, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1522, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1522, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1522, 0, 0, 1000000000);
@@ -3667,7 +3667,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1523, 0, 420, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1523, 0, 403, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1523, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1523, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1523, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1523, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1523, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1523, 0, 0, 1000000000);
@@ -3755,7 +3755,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5137, 1524, 0, 105, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5138, 1524, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5139, 1524, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1524, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1524, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1524, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1524, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1524, 0, 0, 1000000000);
@@ -3820,7 +3820,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5217, 1524, 0, 408, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5218, 1524, 0, 490, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5106, 1525, 0, 441, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5107, 1525, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5107, 1525, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5108, 1525, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5109, 1525, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5110, 1525, 0, 0, 1000000000);
@@ -3847,7 +3847,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5139, 1525, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1525, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1525, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1525, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1525, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1525, 0, 100, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1525, 0, 101, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1525, 0, 101, 1000000000);
@@ -4130,7 +4130,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1528, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1528, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1528, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1528, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1528, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1528, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1528, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1528, 0, 0, 1000000000);
@@ -4460,7 +4460,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5189, 1532, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5190, 1532, 0, 105, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5191, 1532, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1532, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1532, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1532, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1532, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1532, 0, 3002, 1000000000);
@@ -4743,7 +4743,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1537, 0, 107, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1537, 0, 108, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1537, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1537, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1537, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1537, 0, 106, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1537, 0, 107, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1537, 0, 108, 1000000000);
@@ -5273,7 +5273,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1547, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1547, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1547, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1547, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1547, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5133, 1547, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5134, 1547, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5135, 1547, 0, 0, 1000000000);
@@ -5346,7 +5346,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1548, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1548, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1548, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1548, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1548, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1548, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1548, 0, 100, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1548, 0, 101, 1000000000);
@@ -5428,7 +5428,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1549, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1549, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1549, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1549, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1549, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1549, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1549, 0, 552, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1549, 0, 510, 1000000000);
@@ -5595,7 +5595,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1554, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1554, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5149, 1554, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1554, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5150, 1554, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5151, 1554, 0, 402, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1554, 0, 421, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1554, 0, 430, 1000000000);
@@ -5824,7 +5824,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1562, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1562, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1562, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1562, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1562, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1562, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1562, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1562, 0, 462, 1000000000);
@@ -5842,7 +5842,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5191, 1562, 0, 446, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1562, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1562, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1562, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1562, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1562, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4798, 1563, 0, 441, 1000000004);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4799, 1563, 0, 0, 1000000004);
@@ -5882,7 +5882,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1563, 0, 411, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1563, 0, 403, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1563, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1563, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1563, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1563, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1563, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1563, 0, 0, 1000000000);
@@ -5928,7 +5928,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1564, 0, 444, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1564, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1564, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1564, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1564, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1564, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1564, 0, 402, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1564, 0, 423, 1000000000);
@@ -6040,7 +6040,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1566, 0, 540, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1566, 0, 513, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1566, 0, 537, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1566, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1566, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1566, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1566, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1566, 0, 514, 1000000000);
@@ -6061,7 +6061,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5189, 1566, 0, 102, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5190, 1566, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5191, 1566, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1566, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1566, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1566, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1566, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1566, 0, 402, 1000000000);
@@ -6260,7 +6260,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1569, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1569, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1569, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1569, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1569, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5196, 1569, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4793, 1570, 0, 410, 1000000004);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4794, 1570, 0, 403, 1000000004);
@@ -6397,12 +6397,12 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1571, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1571, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1571, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1571, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1571, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1571, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1571, 0, 400, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1571, 0, 490, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5191, 1571, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1571, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1571, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5193, 1571, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5194, 1571, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5195, 1571, 0, 400, 1000000000);
@@ -6550,7 +6550,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1573, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1573, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1573, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1573, 0, 0, 1000000000);
@@ -6560,7 +6560,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1573, 0, 403, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5188, 1573, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5189, 1573, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5189, 1573, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5190, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5191, 1573, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5192, 1573, 0, 0, 1000000000);
@@ -6895,7 +6895,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1577, 0, 101, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1577, 0, 102, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1577, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1577, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1577, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1577, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1577, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1577, 0, 104, 1000000000);
@@ -7073,7 +7073,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1579, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1579, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1579, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1579, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1579, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1579, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1579, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1579, 0, 0, 1000000000);
@@ -7186,7 +7186,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1580, 0, 101, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1580, 0, 102, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1580, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1580, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1580, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1580, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1580, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1580, 0, 0, 1000000000);
@@ -7584,7 +7584,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1583, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1583, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1583, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1583, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1583, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1583, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1583, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1583, 0, 0, 1000000000);
@@ -7896,7 +7896,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1585, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1585, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1585, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1585, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1585, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1585, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1585, 0, 106, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1585, 0, 107, 1000000000);
@@ -8167,7 +8167,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1587, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1587, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1587, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1587, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1587, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1587, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1587, 0, 400, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1587, 0, 481, 1000000000);
@@ -9014,9 +9014,9 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1593, 0, 421, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1593, 0, 403, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1593, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1593, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1593, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1593, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1593, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1593, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1593, 0, 1, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5188, 1593, 0, 1, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5189, 1593, 0, 461, 1000000000);
@@ -9116,7 +9116,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4994, 1594, 0, 403, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4995, 1594, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4996, 1594, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4997, 1594, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4997, 1594, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1594, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4999, 1594, 0, 400, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1594, 0, 490, 1000000000);
@@ -9527,13 +9527,13 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1596, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1596, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1596, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1596, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1596, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1596, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1596, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1596, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5170, 1596, 0, 104, 1000000000);
@@ -9906,7 +9906,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1598, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1598, 0, 105, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1598, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1598, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1598, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1598, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1598, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1598, 0, 0, 1000000000);
@@ -10076,9 +10076,9 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1599, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1599, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1599, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1599, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1599, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1599, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1599, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1599, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5170, 1599, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5171, 1599, 0, 106, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1599, 0, 107, 1000000000);
@@ -10195,7 +10195,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4963, 1600, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4964, 1600, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4965, 1600, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4966, 1600, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4966, 1600, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4967, 1600, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4968, 1600, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4969, 1600, 0, 0, 1000000000);
@@ -10905,15 +10905,15 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1603, 0, 107, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1603, 0, 108, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1603, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1603, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1603, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1603, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1603, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1603, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1603, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1603, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1603, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5170, 1603, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5171, 1603, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1603, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1603, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1603, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1603, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1603, 0, 106, 1000000000);
@@ -11039,7 +11039,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4972, 1604, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4973, 1604, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4974, 1604, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4975, 1604, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4975, 1604, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4976, 1604, 0, 203, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4977, 1604, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4978, 1604, 0, 205, 1000000000);
@@ -11438,7 +11438,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4949, 1606, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4950, 1606, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4951, 1606, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4952, 1606, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4952, 1606, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1606, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4954, 1606, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4955, 1606, 0, 0, 1000000000);
@@ -11487,7 +11487,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5008, 1606, 0, 207, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5009, 1606, 0, 207, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5010, 1606, 0, 208, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5011, 1606, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5011, 1606, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5012, 1606, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5015, 1606, 0, 470, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5016, 1606, 0, 401, 1000000000);
@@ -11703,7 +11703,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5008, 1607, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5009, 1607, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5010, 1607, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5011, 1607, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5011, 1607, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5012, 1607, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5016, 1607, 0, 470, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5017, 1607, 0, 401, 1000000000);
@@ -11918,7 +11918,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5006, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5007, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5008, 1608, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5009, 1608, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5009, 1608, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5010, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5011, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5012, 1608, 0, 460, 1000000000);
@@ -11956,7 +11956,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5089, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5090, 1608, 0, 465, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1608, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1608, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1608, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1608, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1608, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1608, 0, 640, 1000000000);
@@ -11972,7 +11972,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1608, 0, 553, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1608, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1608, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1608, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1608, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1608, 0, 0, 1000000000);
@@ -12078,7 +12078,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4949, 1609, 0, 207, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4950, 1609, 0, 208, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4951, 1609, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4952, 1609, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4952, 1609, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1609, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4954, 1609, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4955, 1609, 0, 3000, 1000000000);
@@ -12183,10 +12183,10 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1609, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1609, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1609, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1609, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1609, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1609, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1609, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1609, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1609, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5188, 1609, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5189, 1609, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5190, 1609, 0, 466, 1000000000);
@@ -12293,7 +12293,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4964, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4965, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4966, 1610, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4967, 1610, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4967, 1610, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4968, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4969, 1610, 0, 402, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4970, 1610, 0, 430, 1000000000);
@@ -12315,7 +12315,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4997, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4999, 1610, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1610, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1610, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5001, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5002, 1610, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5003, 1610, 0, 0, 1000000000);
@@ -12518,7 +12518,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5002, 1611, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5003, 1611, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5004, 1611, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5005, 1611, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5005, 1611, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5006, 1611, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5007, 1611, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5008, 1611, 0, 0, 1000000000);
@@ -12571,7 +12571,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1611, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1611, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1611, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1611, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1611, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1611, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1611, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1611, 0, 104, 1000000000);
@@ -12589,7 +12589,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1611, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1611, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1611, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1611, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1611, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1611, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5186, 1611, 0, 400, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5187, 1611, 0, 408, 1000000000);
@@ -12683,7 +12683,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1612, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4954, 1612, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4955, 1612, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4956, 1612, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4956, 1612, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4957, 1612, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4958, 1612, 0, 463, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4961, 1612, 0, 470, 1000000000);
@@ -12954,7 +12954,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1613, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1613, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1613, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1613, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1613, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1613, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1613, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1613, 0, 0, 1000000000);
@@ -13080,7 +13080,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4990, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4991, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4992, 1614, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4993, 1614, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4993, 1614, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4994, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4995, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4996, 1614, 0, 0, 1000000000);
@@ -13144,7 +13144,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1614, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1614, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1614, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1614, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1614, 0, 640, 1000000000);
@@ -13162,7 +13162,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1614, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1614, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1614, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1614, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1614, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1614, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1614, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5185, 1614, 0, 461, 1000000000);
@@ -13443,7 +13443,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4995, 1616, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4996, 1616, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4997, 1616, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1616, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1616, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4999, 1616, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1616, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5001, 1616, 0, 0, 1000000000);
@@ -13486,7 +13486,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1616, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1616, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1616, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1616, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1616, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1616, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1616, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1616, 0, 640, 1000000000);
@@ -13610,7 +13610,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4990, 1617, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4991, 1617, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4992, 1617, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4993, 1617, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4993, 1617, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4994, 1617, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4995, 1617, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4996, 1617, 0, 0, 1000000000);
@@ -14317,7 +14317,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4994, 1621, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4995, 1621, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4996, 1621, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4997, 1621, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4997, 1621, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1621, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4999, 1621, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1621, 0, 640, 1000000000);
@@ -14487,7 +14487,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4981, 1622, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4982, 1622, 0, 460, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4986, 1622, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4987, 1622, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4987, 1622, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4988, 1622, 0, 206, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4989, 1622, 0, 207, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4990, 1622, 0, 207, 1000000000);
@@ -14657,7 +14657,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4982, 1623, 0, 463, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4986, 1623, 0, 446, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4987, 1623, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4988, 1623, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4988, 1623, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4989, 1623, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4990, 1623, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4991, 1623, 0, 640, 1000000000);
@@ -14670,7 +14670,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1623, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4999, 1623, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1623, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5001, 1623, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5001, 1623, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5002, 1623, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5003, 1623, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5004, 1623, 0, 3002, 1000000000);
@@ -14828,7 +14828,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4988, 1624, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4989, 1624, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4990, 1624, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4991, 1624, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4991, 1624, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4992, 1624, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4993, 1624, 0, 400, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4994, 1624, 0, 480, 1000000000);
@@ -15029,7 +15029,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5101, 1625, 0, 430, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1625, 0, 441, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1625, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1625, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1625, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1625, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1625, 0, 402, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1625, 0, 423, 1000000000);
@@ -15780,7 +15780,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1630, 0, 463, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4975, 1630, 0, 443, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4976, 1630, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4977, 1630, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4977, 1630, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4978, 1630, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4979, 1630, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4980, 1630, 0, 0, 1000000000);
@@ -15844,7 +15844,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1630, 0, 408, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1630, 0, 401, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1630, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1630, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1630, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1630, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1630, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1630, 0, 640, 1000000000);
@@ -15959,7 +15959,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4998, 1631, 0, 207, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4999, 1631, 0, 208, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5000, 1631, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5001, 1631, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5001, 1631, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5002, 1631, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5003, 1631, 0, 203, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5004, 1631, 0, 204, 1000000000);
@@ -16682,7 +16682,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5025, 1635, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5026, 1635, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5027, 1635, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5028, 1635, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5028, 1635, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5029, 1635, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5030, 1635, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5031, 1635, 0, 104, 1000000000);
@@ -16916,7 +16916,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1636, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1636, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1636, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1636, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5161, 1636, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5162, 1636, 0, 701, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1636, 0, 470, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1636, 0, 408, 1000000000);
@@ -17238,7 +17238,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5025, 1638, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5026, 1638, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5027, 1638, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5028, 1638, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5028, 1638, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5029, 1638, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5030, 1638, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5031, 1638, 0, 0, 1000000000);
@@ -17287,7 +17287,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1638, 0, 101, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1638, 0, 102, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1638, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1638, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1638, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1638, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1638, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1638, 0, 640, 1000000000);
@@ -17302,7 +17302,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5171, 1638, 0, 465, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1638, 0, 441, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1638, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1638, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1638, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1638, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1638, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1638, 0, 640, 1000000000);
@@ -17408,7 +17408,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4971, 1639, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4972, 1639, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4973, 1639, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4974, 1639, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4974, 1639, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4975, 1639, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4976, 1639, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4977, 1639, 0, 462, 1000000000);
@@ -17653,14 +17653,14 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5152, 1640, 0, 107, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5153, 1640, 0, 108, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5154, 1640, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1640, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5155, 1640, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5156, 1640, 0, 103, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5157, 1640, 0, 104, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5158, 1640, 0, 105, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5159, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5160, 1640, 0, 466, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5163, 1640, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1640, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5164, 1640, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1640, 0, 640, 1000000000);
@@ -17672,7 +17672,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1640, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1640, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1640, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1640, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1640, 0, 0, 1000000000);
@@ -17846,7 +17846,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1641, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5176, 1641, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5177, 1641, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1641, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5178, 1641, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1641, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1641, 0, 464, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4777, 1642, 0, 443, 1000000004);
@@ -17920,7 +17920,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4957, 1642, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4958, 1642, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4959, 1642, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4960, 1642, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4960, 1642, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4961, 1642, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4962, 1642, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4963, 1642, 0, 0, 1000000000);
@@ -18094,7 +18094,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4975, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4976, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4977, 1643, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4978, 1643, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4978, 1643, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4979, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4980, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4981, 1643, 0, 0, 1000000000);
@@ -18105,7 +18105,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4986, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4987, 1643, 0, 466, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5027, 1643, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5028, 1643, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5028, 1643, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5029, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5030, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5031, 1643, 0, 462, 1000000000);
@@ -18155,7 +18155,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5179, 1643, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5180, 1643, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5181, 1643, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1643, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5182, 1643, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5183, 1643, 0, 402, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5184, 1643, 0, 430, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4788, 1644, 0, 441, 1000000004);
@@ -18203,7 +18203,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4950, 1644, 0, 3002, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4951, 1644, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4952, 1644, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1644, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1644, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4954, 1644, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4955, 1644, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4956, 1644, 0, 0, 1000000000);
@@ -18281,7 +18281,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1644, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5170, 1644, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5171, 1644, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1644, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1644, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1644, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1644, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1644, 0, 203, 1000000000);
@@ -18341,7 +18341,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4952, 1645, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4953, 1645, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4954, 1645, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4955, 1645, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4955, 1645, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4956, 1645, 0, 200, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4957, 1645, 0, 201, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4958, 1645, 0, 202, 1000000000);
@@ -18536,7 +18536,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1646, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5170, 1646, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5171, 1646, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1646, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5172, 1646, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5173, 1646, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5174, 1646, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5175, 1646, 0, 203, 1000000000);
@@ -18754,7 +18754,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4957, 1648, 0, 204, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4958, 1648, 0, 205, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4959, 1648, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4960, 1648, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4960, 1648, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4961, 1648, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4962, 1648, 0, 203, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4963, 1648, 0, 204, 1000000000);
@@ -18763,7 +18763,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4966, 1648, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4967, 1648, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4968, 1648, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4969, 1648, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4969, 1648, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4970, 1648, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4971, 1648, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4972, 1648, 0, 0, 1000000000);
@@ -18913,7 +18913,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4973, 1649, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4974, 1649, 0, 462, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4979, 1649, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4980, 1649, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4980, 1649, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4981, 1649, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4982, 1649, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4983, 1649, 0, 0, 1000000000);
@@ -18957,7 +18957,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5165, 1649, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5166, 1649, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5167, 1649, 0, 640, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1649, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5168, 1649, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5169, 1649, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5170, 1649, 0, 640, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5171, 1649, 0, 640, 1000000000);
@@ -19216,7 +19216,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4987, 1651, 0, 430, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1651, 0, 444, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1651, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1651, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1651, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1651, 0, 106, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5133, 1651, 0, 107, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5134, 1651, 0, 108, 1000000000);
@@ -19230,7 +19230,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1651, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1651, 0, 3000, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5144, 1651, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1651, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5145, 1651, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5146, 1651, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5147, 1651, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5148, 1651, 0, 400, 1000000000);
@@ -19660,7 +19660,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5127, 1654, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5128, 1654, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1654, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1654, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1654, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1654, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1654, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5133, 1654, 0, 0, 1000000000);
@@ -20064,7 +20064,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5126, 1657, 0, 101, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5127, 1657, 0, 102, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5128, 1657, 0, 0, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1657, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5129, 1657, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5130, 1657, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5131, 1657, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5132, 1657, 0, 0, 1000000000);
@@ -20534,7 +20534,7 @@ BEGIN
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4960, 1662, 0, 408, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 4961, 1662, 0, 490, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5139, 1662, 0, 703, 1000000000);
-    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1662, 0, 0, 1000000000);
+    INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5140, 1662, 0, 3001, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5141, 1662, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5142, 1662, 0, 0, 1000000000);
     INSERT INTO world.map (karte_id, map_x, map_y, map_w, karte_gelaende, karte_land) VALUES (v_karte_id, 5143, 1662, 0, 464, 1000000000);
