@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-125 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+130 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -387,6 +387,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 4356–4378, y -465–-437 (23×29)
 - **SQL:** [Klein_Loh.sql](sql/Klein_Loh.sql)
 
+## kleine Ölinsel der Hoffnung
+
+![kleine Ölinsel der Hoffnung thumbnail](thumbnails/kleine_linsel_der_Hoffnung.jpg)
+
+- **Land type:** desert
+- **Fields:** 261
+- **Bounding box:** x 3305–3328, y 1249–1265 (24×17)
+- **SQL:** [kleine_linsel_der_Hoffnung.sql](sql/kleine_linsel_der_Hoffnung.sql)
+
 ## kleines heißes Plätteisen
 
 ![kleines heißes Plätteisen thumbnail](thumbnails/kleines_hei_es_Pl_tteisen.jpg)
@@ -575,6 +584,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 406
 - **Bounding box:** x 5043–5073, y -420–-399 (31×22)
 - **SQL:** [Mauremys_Leprosa.sql](sql/Mauremys_Leprosa.sql)
+
+## Meklunia
+
+![Meklunia thumbnail](thumbnails/Meklunia.jpg)
+
+- **Land type:** desert
+- **Fields:** 768
+- **Bounding box:** x 3943–4002, y 1098–1133 (60×36)
+- **SQL:** [Meklunia.sql](sql/Meklunia.sql)
 
 ## namenlose Insel 3010/450
 
@@ -819,6 +837,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Bounding box:** x 3625–3677, y 1241–1270 (53×30)
 - **SQL:** [N_ldtwin.sql](sql/N_ldtwin.sql)
 
+## Ölinsel der Hoffnung
+
+![Ölinsel der Hoffnung thumbnail](thumbnails/linsel_der_Hoffnung.jpg)
+
+- **Land type:** desert
+- **Fields:** 10344
+- **Bounding box:** x 3038–3205, y 1196–1369 (168×174)
+- **SQL:** [linsel_der_Hoffnung.sql](sql/linsel_der_Hoffnung.sql)
+
 ## Osterinsel
 
 ![Osterinsel thumbnail](thumbnails/Osterinsel.jpg)
@@ -845,6 +872,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 722
 - **Bounding box:** x 3613–3659, y 1511–1561 (47×51)
 - **SQL:** [Phantasy_Island.sql](sql/Phantasy_Island.sql)
+
+## Phileaswüste
+
+![Phileaswüste thumbnail](thumbnails/Phileasw_ste.jpg)
+
+- **Land type:** desert
+- **Fields:** 673
+- **Bounding box:** x 4388–4445, y 1308–1348 (58×41)
+- **SQL:** [Phileasw_ste.sql](sql/Phileasw_ste.sql)
 
 ## Riva
 
@@ -1034,6 +1070,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 790
 - **Bounding box:** x 4401–4461, y 1125–1167 (61×43)
 - **SQL:** [Taka_Tuka.sql](sql/Taka_Tuka.sql)
+
+## Terra Arena
+
+![Terra Arena thumbnail](thumbnails/Terra_Arena.jpg)
+
+- **Land type:** desert
+- **Fields:** 473
+- **Bounding box:** x 4938–4968, y 1243–1267 (31×25)
+- **SQL:** [Terra_Arena.sql](sql/Terra_Arena.sql)
 
 ## Tol Aldar
 
