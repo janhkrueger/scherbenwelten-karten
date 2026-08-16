@@ -1,6 +1,6 @@
 # Scherbenwelten Karten
 
-130 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
+131 islands that have completed the full boundary-detection -> replacement -> classification -> SQL-generation pipeline in scherbenkarte-archiv and are ready for `world.map` import. This file and the sql/, thumbnails/, and schema.sql files are generated -- see scherbenwelten-karten-private for the generator.
 
 Each `sql/<island>.sql` assumes the `world.map` / `world.map_name` schema already exists and is self-contained (allocates its own `karte_id`, so islands never collide with each other). Apply **[schema.sql](schema.sql)** once, then every `sql/*.sql` file in any order:
 
@@ -863,6 +863,15 @@ for f in sql/*.sql; do psql -d yourdb -f "$f"; done
 - **Fields:** 839
 - **Bounding box:** x 5099–5139, y 1005–1045 (41×41)
 - **SQL:** [P_min_m_te.sql](sql/P_min_m_te.sql)
+
+## Petroleuminsel
+
+![Petroleuminsel thumbnail](thumbnails/Petroleuminsel.jpg)
+
+- **Land type:** desert
+- **Fields:** 20262
+- **Bounding box:** x 3862–4247, y 1124–1319 (386×196)
+- **SQL:** [Petroleuminsel.sql](sql/Petroleuminsel.sql)
 
 ## Phantasy Island
 
